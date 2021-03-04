@@ -4,3 +4,4 @@ This repository is meant for showing users of the OpenITI project how to use Git
 
 * [HelloWorld](https://github.com/OpenITI-Training/HelloWorld): create your first repository
 * [ForkingExample](https://github.com/OpenITI-Training/ForkingExample): this repository is used for training forking and pull requests. 
+* [TextUpload](https://github.com/OpenITI-Training/TextUpload): use this repo to practice pull requests
